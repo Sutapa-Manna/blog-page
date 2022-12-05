@@ -6,4 +6,4 @@ html
 3.Login page -done
 4.Dashboard page - Working
 5.About page
-6.Content page-done
+6.Content page-done 7. project completed
